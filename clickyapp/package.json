@@ -1,8 +1,8 @@
 {
   "name": "clickyapp",
-  "homepage": "https://nsanta11.github.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nsanta11.github.io/React-App",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
